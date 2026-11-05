@@ -1348,6 +1348,7 @@ function ChangePasswordScreen({
       setNewPassword("")
       setConfirmPassword("")
       onComplete(account.id)
+      window.setTimeout(onLogout, 900)
     }, 700)
   }
 
