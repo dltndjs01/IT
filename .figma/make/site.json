@@ -1,0 +1,10 @@
+{
+  "description": "Helps employees resolve IT issues through a streamlined help desk for support requests, troubleshooting, and service updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
